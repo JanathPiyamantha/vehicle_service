@@ -1,0 +1,13 @@
+{
+    "name": "janaa/vehicle_service",
+    "description": "my project is based on a vehicle service center which is located in Gorakadeniya named ruwan auto service",
+    "type": "project",
+    "authors": [
+        {
+            "name": "janath"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
